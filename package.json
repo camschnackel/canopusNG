@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/devjanaprime/canopusNG#readme",
   "dependencies": {
+    "angular": "^1.6.6",
     "body-parser": "^1.18.1",
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "pg": "^7.3.0"
   }
 }
